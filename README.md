@@ -25,13 +25,13 @@ Predict sales based on advertising budgets for TV, Radio, and Newspaper using ma
 
 ## Outcome / Results
 - **Linear Regression**
-  - R² Score: [Fill in your %]  
-  - MAE: [Fill in value]  
+  - R² Score: [89.89%]  
+  - MAE: [1.24]  
 - **Random Forest Regressor**
-  - R² Score: [Fill in your %]  
-  - MAE: [Fill in value]  
+  - R² Score: [98.45%]  
+  - MAE: [0.45]  
 - **XGBoost Regressor**
-  - R² Score: [Fill in your %]  
-  - MAE: [Fill in value]  
+  - R² Score: [98.16%]  
+  - MAE: [0.62]  
 - Random Forest and XGBoost provide more accurate predictions compared to Linear Regression.
 
